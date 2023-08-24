@@ -54,5 +54,6 @@ There are several avenues for future work. Further optimization of the model's h
 
 The project is currently in its completed state. The developed model and insights can be utilized for various applications related to drug removal from wastewater.
 
+![image](https://github.com/Rahulshinde5/ML-Based-Predictive-Modeling-for-Ketoprofen-Adsorbance/assets/125460745/3c6cdf41-09b8-4361-babf-dc79a42a7202)
 
 
